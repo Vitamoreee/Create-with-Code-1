@@ -22,3 +22,6 @@ Ich habe ein Spiel gebaut, in dem der Spieler Punkte sammeln kann.
 
 Ich habe einfache Spielregeln mit C# programmiert.
 
+VERSION
+6000.0.49f
+LTS 6
